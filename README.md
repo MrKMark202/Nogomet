@@ -3,7 +3,7 @@ Ovo je jedan od zadataka sa roka iz predmeta programiranje na informatičkom fak
 
 Zadatak je bio napraviti program koji će omogućiti upis imena dvije nogometne ekipe i njihovih zabijenih golova
 <hr>
-**Dodatne stvari**
+<strong> DODATNE STVARI </strong>
 <p>Program je trebao sadržavati 5 mogučnosti.</p>
 
 - Mogučnost 1. Kreiranje Utakmice
