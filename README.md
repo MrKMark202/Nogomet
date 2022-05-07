@@ -5,7 +5,7 @@ Zadatak je bio napraviti program koji će omogućiti upis imena dvije nogometne 
 **Dodatne stvari**
 <hr>
 Program je trebao sadržavati 5 mogučnosti.
-
+--
 - Mogučnost 1. Kreiranje Utakmice
 - Mogučnost 2. Ispisivanje svih unesenih utakmica
 - Mogučnost 3. Ipravak podataka o utakmici
