@@ -2,8 +2,8 @@
 Ovo je jedan od zadataka sa roka iz predmeta programiranje na informatičkom fakultetu _FIPU_.
 
 Zadatak je bio napraviti program koji će omogućiti upis imena dvije nogometne ekipe i njihovih zabijenih golova
-**Dodatne stvari**
 <hr>
+**Dodatne stvari**
 Program je trebao sadržavati 5 mogučnosti.
 
 - Mogučnost 1. Kreiranje Utakmice
